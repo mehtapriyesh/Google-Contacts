@@ -2,14 +2,13 @@
 """
 Created on Wed Nov  6 21:34:28 2019
 
-@author: user
+@author: Priyesh Mehta
 """
 
 """
 This can be used to add an entire database of contacts to google contacts which can later be used for other purposes such as using saved
 contacts to apply whatsapp marketing.
 """
-
 
 
 from selenium import webdriver
