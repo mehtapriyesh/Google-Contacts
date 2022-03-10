@@ -52,5 +52,5 @@ for n in range(len(fnames)):
     numins=wdw("//input[@aria-label='Phone']").send_keys(numbers[n])
     submit=wdw("//button[2]/span").click()
     end=wdw("//div[3]/div[4]").click()
-    sleep(1)
+    sleep(2)
 
